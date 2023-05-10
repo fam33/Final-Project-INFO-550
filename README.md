@@ -9,6 +9,7 @@ keras and
 numpy
 
 Steps to run(commands):
+
 i) python Test_the_Environement.py,
 this checks if the environment is ready to train by running few episodes.
 
